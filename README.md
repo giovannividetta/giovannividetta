@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giovanni Videtta
-- 👀 I’m interested in Cognitive Neuroscience
+- 👀 I’m interested in structural brain connectivity
 - 🌱 I’m postdoctoral researcher
-- 💞️ I’m looking to learning application of diffusion neuroimaging in translational meuroscience
+- 💞️ I’m looking to learning application of diffusion neuroimaging in translational neuroscience
 - 📫 How to reach me giannividetta@gmail.com
 
 <!---
